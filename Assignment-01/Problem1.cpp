@@ -1,7 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-int sumEvenPositions(int n,int pos = 1)
+int sumEvenPositions(int n,int pos = 0)
 {
   if(n == 0)
   return 0;
